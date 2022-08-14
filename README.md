@@ -1,2 +1,2 @@
 # Challenge-Two
-For this challenge, I wrote my own code from scratch and constructed my own website portfolio. I have an HTML file which I have linked with a CSS and Javascript file.
+For this project, I have constructed a functional website which acts as a portfolio and introduction to my work as a software engineer. Key features of this page include an "about me" section, a section containing my projects with my most recent work being most prominent, and a "contact me" section. With the base HTML file, I have attached a Javascript and CSS file to increase functionality and make the interface more user-friendly.
