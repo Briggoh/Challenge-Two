@@ -2,7 +2,9 @@
 For this project, I have constructed a functional website which acts as a portfolio and introduction to my work as a software engineer. 
 Key features of this page include an "about me" section, a section containing my projects with my most recent work being featured most prominently, and a "contact me" section containing my email. 
 
+
 Along with the base HTML file, I have attached a Javascript and CSS file to increase functionality and make the interface more user-friendly. I will be updating this website periodically and applying new skills that I have learned through my course with UC Berkeley, so check-in periodically for new features!
+
 
 Attached below is a screenshot of the home-page of my portfolio. This is what greets you as you enter the webpage!
 
@@ -10,6 +12,9 @@ Attached below is a screenshot of the home-page of my portfolio. This is what gr
 
 
 Click the link below to find the deployed application: 
+
+
 https://briggoh.github.io/Flexbox-Portfolio/
+
 
 Thank you for taking the time to review this document and my application, it is greatly appreciated!
