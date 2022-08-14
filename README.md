@@ -11,3 +11,5 @@ Attached below is a screenshot of the home-page of my portfolio. This is what gr
 
 Click the link below to find the deployed application: 
 https://briggoh.github.io/Flexbox-Portfolio/
+
+Thank you for taking the time to review this document and my application, it is greatly appreciated!
