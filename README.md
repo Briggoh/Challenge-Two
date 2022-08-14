@@ -1,5 +1,7 @@
 # Flexbox-Portfolio
 For this project, I have constructed a functional website which acts as a portfolio and introduction to my work as a software developer. 
+
+
 Key features of this page include an "about me" section, a section containing my projects with my most recent work being featured most prominently, and a "contact me" section containing my email. 
 
 
